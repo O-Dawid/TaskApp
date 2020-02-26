@@ -1,5 +1,5 @@
 ### TASKAPP
-Sort of Trello App to hands out tasks
+Sort of Trello App to hand out tasks
 
 ### Techstack:
 - Java
